@@ -1,5 +1,10 @@
-Step 1: Ask the user to enter his/her age.
-Step 2: Ask the user if s\he has a diver license.
-Step 3: Result = (Age > 21 and HasDriverLicense=True).
-Step 4: check if result =True then Hire otherwise Reject..
-Step 5: Print “Hired” or “Rejected” accordingly
+Write a program to calculate rectangle area through diagonal and side area of
+rectangle and print it on the screen.
+The use should enter:
+a
+d
+Example Inputs:
+5
+40
+Outputs
+198.431

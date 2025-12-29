@@ -1,5 +1,9 @@
-Step 1: Ask the user to enter his/her age.
-Step 2: Ask the user if s\he has a diver license.
-Step 3: Result = (Age > 21 and HasDriverLicense=True).
-Step 4: check if result =True then Hire otherwise Reject..
-Step 5: Print “Hired” or “Rejected” accordingly
+Write a program to calculate triangle area then print it on the screen.
+The use should enter:
+a
+h
+Example Inputs:
+10
+8
+Outputs 
+40

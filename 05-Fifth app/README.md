@@ -1,5 +1,6 @@
-Step 1: Ask the user to enter his/her age.
-Step 2: Ask the user if s\he has a diver license.
-Step 3: Result = (Age > 21 and HasDriverLicense=True).
-Step 4: check if result =True then Hire otherwise Reject..
-Step 5: Print “Hired” or “Rejected” accordingly
+Write a program to ask the user to enter his/her:
+• Age
+• Driver license
+• Has Recommendation!
+Then Print “Hired” if his\her age is grater than 21 and s/he has a driver license, otherwise Print “Rejected”
+Or Hire him\her without conditions!

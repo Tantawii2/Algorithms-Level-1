@@ -1,5 +1,7 @@
-Step 1: Ask the user to enter his/her age.
-Step 2: Ask the user if s\he has a diver license.
-Step 3: Result = (Age > 21 and HasDriverLicense=True).
-Step 4: check if result =True then Hire otherwise Reject..
-Step 5: Print “Hired” or “Rejected” accordingly
+Write a program to ask the user to enter: • Number1 , Number2
+Then Print the Max Number
+Example Inputs:
+10
+20
+Outputs
+20
