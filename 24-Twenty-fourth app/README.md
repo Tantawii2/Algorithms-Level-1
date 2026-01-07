@@ -1,3 +1,0 @@
-Write a program to ask the user to enter :
-• Age
-If age is between 18 and 45 print “Valid Age” otherwise print “Invalid Age”
