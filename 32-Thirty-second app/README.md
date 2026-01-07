@@ -1,8 +1,12 @@
-Write a program to ask the user to enter: • Number
+
+
+Write a program to ask the user to enter: 
+• Number
 • M
 Then Print the Number^M
 Example Inputs:
 2
 4
 Outputs
+
 16
