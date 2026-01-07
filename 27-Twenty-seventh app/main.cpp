@@ -1,24 +1,19 @@
 #include <iostream>
 using namespace std;
 
-int ReadNumber()
-{
-    int number=0;
-    cout<<"Enter a number: ";
-    cin>>number;
-    return number;
+int ReadNumber() {
+  int number = 0;
+  cout << "Enter a number: ";
+  cin >> number;
+  return number;
 }
-void printAllNumbersFrom1ToN(int number)
-{
-    for (int i =1 ; i < number+1; i++)
-        {
-            cout <<i<<endl;
-        }
+void printAllNumbersFromNTo1(int number) {
+  for (int i = number; i > 0; i--) {
+    cout << i << endl;
+  }
 }
-int main()
-{
-  printAllNumbersFrom1ToN(ReadNumber());
+int main() {
+  printAllNumbersFromNTo1(ReadNumber());
 
- 
-    return 0;
+  return 0;
 }
