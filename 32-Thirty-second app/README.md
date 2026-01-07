@@ -1,3 +1,5 @@
+
+
 Write a program to ask the user to enter: 
 • Number
 • M
@@ -6,4 +8,5 @@ Example Inputs:
 2
 4
 Outputs
+
 16
